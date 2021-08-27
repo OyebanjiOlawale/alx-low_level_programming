@@ -21,5 +21,6 @@ printf("Size of a int: %Id byte(s)\n", sizeof(i));
 printf("Size of a long: %Id byte(s)\n", sizeof(li));
 printf("Size of a long: %Id byte(s)\n", sizeof(lli));
 printf("Size of a float: %Id byte(s)\n", sizeof(f));
+
 return (0);
 }
