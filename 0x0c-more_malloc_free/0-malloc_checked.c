@@ -1,8 +1,3 @@
-/*
- * File: 0-malloc_checked.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 #include <stdlib.h>
 
