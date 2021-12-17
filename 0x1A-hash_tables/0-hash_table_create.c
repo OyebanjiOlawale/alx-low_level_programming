@@ -1,6 +1,6 @@
 /*
  * File: 0-hash_table_create.c
- * Auth: Oyebanji Olawale Amzat
+ * Auth: Oyebanji Olawale Amzat <oyebanji_olawale@yahoo.com>
  */
 
 #include "hash_tables.h"
